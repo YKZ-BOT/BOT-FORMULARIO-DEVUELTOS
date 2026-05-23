@@ -1,7 +1,0 @@
-node_modules/
-.env
-*.log
-turno_estado.json
-.DS_Store
-.idea/
-.vscode/
